@@ -2,4 +2,4 @@
 - 👀 I’m interested in game development, Crytal
 - 🌱 I’m currently learning C, and C++
 - 💞️ I’m not sure with what to collaborate yet
-- 📫 How to reach me shoury.shinde@icloud.com (my main email address)
+- 📫 If you need to reach me, then mail me: shoury.shinde@icloud.com (my main email)
