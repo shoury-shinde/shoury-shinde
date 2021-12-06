@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @shoury-shinde
-- 👀 I’m interested in Crystal
-- 🌱 I’m currently learning C, and C++
-- 💞️ I’m not sure with what to collaborate yet
-- 📫 If you need to reach me, then mail me: shoury.shinde@icloud.com (my main email)
+
